@@ -26,3 +26,22 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.red-Cell {
+    background-color: #ff0000;
+}
+.blue-Cell {
+    background-color: #0000ff;
+}
+.white-Cell {
+    background-color: #ffffff;
+}
+.hidden-text{
+  visibility: hidden
+}
+table, tr, td {
+   border: 1px solid black;
+}
+.content{
+  margin-top: 54px;
+}
